@@ -1,6 +1,6 @@
 # Pembelajaran C++ di IT CYBER COMMUNITY
 
-![Background Image](url-to-your-image.jpg)
+![Background Image](C:\Users\darma\Pictures\Screenshots)
 
 Selamat datang di repositori **IT CYBER COMMUNITY**! Di sini, kami fokus pada pembelajaran bahasa pemrograman **C++**. C++ adalah salah satu bahasa pemrograman yang sangat penting dan digunakan secara luas di berbagai industri, seperti perangkat lunak, sistem embedded, dan game development.
 
